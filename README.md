@@ -56,9 +56,3 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para:
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 👤 Autor
-
-[Seu Nome]
-
----
-Desenvolvido com ❤️ 
